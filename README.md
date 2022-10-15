@@ -1,2 +1,2 @@
-# Ethical_Hacking_Framework
+# Ethical Hacking Framework
 Work in Progress
