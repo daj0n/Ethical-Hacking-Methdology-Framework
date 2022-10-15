@@ -6,6 +6,8 @@ When it's all finished, I want it to be a reference guide for every stage of eth
 # Installation
 git clone https://github.com/daj0n/Ethical_Hacking_Framework.git
 
+chmod +x ethical_hacking_framework.py
+
 # Usage
 ./ethical_hacking_framework.py
 
